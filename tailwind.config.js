@@ -81,6 +81,8 @@ module.exports = {
         work_project_bg_dark: 'url(/work/project-bg-dark.png)',
         dots_light: 'url(/dots-light.svg.)',
         dots_dark: 'url(/dots-dark.svg.)',
+        contact_illustration_light: 'url(/contact/illustration-light.svg)',
+        contact_illustration_dark: 'url(/contact/illustration-dark.svg)',
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',

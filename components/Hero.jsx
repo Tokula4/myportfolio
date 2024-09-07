@@ -46,14 +46,14 @@ const Hero = () => {
                 {/* badge2 */}
                 <Badge containStyles='absolute top-[80%] -left-[1rem]' 
               icon={<RiTodoFill/>}
-               endCountNum={1} 
-               endCountText='k'
+               endCountNum={50} 
+               endCountText='+'
               badgeText='Finished Project' />
                 {/* badge 3 */}
                 <Badge containStyles='absolute top-[55%] -right-8' 
               icon={<RiTeamFill/>}
-               endCountNum={1} 
-               endCountText='k'
+               endCountNum={100} 
+               endCountText='h'
               badgeText='Happy Clients' />
                 <div className='  bg-hero_shape_2_light dark:bg-hero_shape_2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 -right-2 ' ></div>
                 <DevImg  containerStyles='bg-hero_shape w-[510px] h-[462px] bg-no-repeat relative bg-bottom '

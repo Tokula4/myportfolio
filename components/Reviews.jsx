@@ -19,27 +19,27 @@ import {Pagination} from 'swiper/modules'
 
 const reviewData = [
   {
-    avatar:'/',
+    avatar:'/reviews/avatar-1.png',
     name: 'Access Solution Limited',
     Job: 'Company',
     review:'Emmanuel is a very creative person and dedicated will look forward to working with him again '
   },
 
   {
-    avatar:'/',
+    avatar:'/reviews/avatar-2.png',
     name: 'Another Story',
     Job: 'Company',
     review:'Emmanuel Tokula Creativity has made this company to be where it is today  '
   },
 
   {
-    avatar:'/',
+    avatar:'/reviews/avatar-2.png',
     name: 'Another Story',
     Job: 'Company',
     review:'Emmanuel Tokula Creativity has made this company to be where it is today  '
   },
   {
-    avatar:'/',
+    avatar:'/reviews/avatar-1.png',
     name: 'Another Story',
     Job: 'Company',
     review:'Emmanuel Tokula Creativity has made this company to be where it is today  '

@@ -5,6 +5,7 @@ import Work from '@/components/Work'
 import Reviews from '@/components/Reviews'
 import Cta from '@/components/Cta'
 
+
 export default function Home() {
   return (
     <main>
@@ -14,6 +15,7 @@ export default function Home() {
     <Work/>
     <Reviews/>
     <Cta/>
+   
     </main>
   );
 }
