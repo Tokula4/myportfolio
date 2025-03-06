@@ -106,7 +106,7 @@ const About = () => {
                 {/* Image */}
                 <div className='relative flex-1 hidden xl:flex'  >
                     <DevImg  containerStyles= 'bg-hero_shape_2_light dark:bg-hero_shape_2_dark  w-[505px] h-[505px] bg-no-repeat relative '
-                //  imgSrc='/about/developer.png'
+                //  imgSrc='/about/developer3.png'
                     />
 
                 </div>

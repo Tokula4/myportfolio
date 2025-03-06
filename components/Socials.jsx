@@ -7,30 +7,23 @@ import {RiYoutubeFill, RiLinkedinFill, RiGithubFill,
 import Link from 'next/link'
 const icons = [
   {
-    path:'/',
+    path:'https://www.youtube.com/@Another_story01',
     name: <RiYoutubeFill/>,
   },
 
   {
-    path:'/',
+    path:'https://www.linkedin.com/in/emmanuel-tokula-34530b226/',
     name: <RiLinkedinFill/>,
   },
 
   {
-    path:'/',
+    path:'https://github.com/Tokula4',
     name: <RiGithubFill/>,
   },
 
+  
   {
-    path:'/',
-    name: < RiFacebookFill/>,
-  },
-  {
-    path:'/',
-    name: <RiInstallFill/>,
-  },
-  {
-    path:'/',
+    path:'https://www.instagram.com/emmanuel_tokula/',
     name: <RiInstagramFill/>,
   },
   

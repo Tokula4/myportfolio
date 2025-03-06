@@ -18,7 +18,7 @@ import ProjectCard from './ProjectCard'
 
 const ProjectData = [
     {
-        image:'',
+        image:'/carsite.png',
         category:'Next.js',
         name: 'Sanko Autos Website',
         description:'Sanko Auto is a Website where cars can be odered and rented',
@@ -26,22 +26,14 @@ const ProjectData = [
         github:'https://github.com/Tokula4',
 
     },
-    {
-        image:'/',
-        category:'Next.js',
-        name: 'Sanko Autos Website',
-        description:'Sanko Auto is a Website where cars can be odered and rented',
-        link:'/',
-        github:'https://github.com/Tokula4',
 
-    },
     {
-        image:'/',
-        category:'Video Editor and Director',
-        name: '4 days by Another story',
-        description:' This is a Video i directed and edited for Another story  ',
-        link:'/',
-        youtube:'https://www.youtube.com/watch?v=X6ATwK3levc',
+        image:'/ogechi.png',
+        category:'Creative Director',
+        name: 'Ogechi by Another story',
+        description:'Directed by Emmanuel Tokula for Another Story  ',
+        link:'https://www.youtube.com/watch?v=tNRGHHGLoxM',
+      
 
     },
 ]

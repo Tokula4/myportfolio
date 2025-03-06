@@ -1,9 +1,10 @@
 import React from 'react'
+import Work from '@/components/Work'
 
 const Projects = () => {
   return (
     <div>
-        projects Page
+        <Work/> 
       
     </div>
   )
